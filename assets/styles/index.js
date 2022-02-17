@@ -35,6 +35,12 @@ $(document).ready(function () {
   });
 });
 
+// My Dark Mode
+function darkMode() {
+  let myDarkMode = document.body;
+  myDarkMode.classList.toggle('dark-mode');
+}
+
 //slide galery
 let i = 0;
 let images = [];
