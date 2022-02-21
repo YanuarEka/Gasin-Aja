@@ -3,4 +3,4 @@ The website recommends tourist destinations by following developments on social 
 
 <h1>Appearance</h1>
 <br/>
-<img src="img/landing page.png" alt="appeareance" width="100%">
+<img src="assets/img/landing page.png" alt="appeareance" width="100%">
