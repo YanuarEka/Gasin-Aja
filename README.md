@@ -1,7 +1,7 @@
 # Gasin-Aja!
 The website recommends tourist destinations by following developments on social media
 
-see <a href="https://yanuareka.github.io/Gasin-Aja/" style="width: 26px; text-decoration: none; style-text: none;">Demo</a>
+see <a href="https://yanuareka.github.io/Gasin-Aja/" width="20px">Demo</a>
 
 <h1>Appearance</h1>
 <br/>
