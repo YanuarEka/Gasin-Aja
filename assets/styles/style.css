@@ -815,11 +815,10 @@ footer {
   #galery {
     min-height: 452px;
   }
-  
-  aside-text h2 {
+  .aside-text h2 {
     font size: 26px;
   }
-  aside-text h6 {
+  .aside-text h6 {
     font size: 14px;
   }
 }
