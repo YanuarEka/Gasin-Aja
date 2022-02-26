@@ -724,7 +724,7 @@ footer {
     font-size: 18px;
   }
   .aside-text h2 {
-    font-size: 35px;
+    font-size: 34px;
   }
   .aside-text a i {
     font-size: 18px;
@@ -814,5 +814,12 @@ footer {
 @media screen and (max-width: 397px) {
   #galery {
     min-height: 452px;
+  }
+  
+  aside-text h2 {
+    font size: 26px;
+  }
+  aside-text h6 {
+    font size: 14px;
   }
 }
