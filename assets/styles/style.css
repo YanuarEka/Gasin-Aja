@@ -223,7 +223,6 @@ nav .menu-btn i {
 }
 .head-desc h1 {
   font-size: 32px;
-  padding: 20px 0;
 }
 .head-desc a {
   font-size: 14px;
@@ -360,7 +359,7 @@ h6 {
   font-size: 21px;
 }
 .aside-text h2 {
-  font-size: 46px;
+  font-size: 38px;
 }
 .aside-text h6 {
   font-weight: 400;
@@ -508,6 +507,9 @@ footer {
   .galery-text a {
     font-size: 9px;
   }
+  .aside-text h2 {
+    font-size: 30px;
+  }
 }
 @media screen and (max-width: 940px) {
   nav {
@@ -526,7 +528,7 @@ footer {
     top: 80px;
     left: -100%;
     background-color: #5c7aea;
-    height: 50vh;
+    height: 70vh;
     width: 100%;
     display: block;
     text-align: center;
@@ -825,5 +827,6 @@ footer {
     font-size: 20px;
   }
   .aside-text h6 {
-    font
+    font-size: 12px;
+  }
 }
